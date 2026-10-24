@@ -8,7 +8,7 @@
 
 > 공개 저장소입니다. 실제 시험 문제 원문은 옮기지 않고, 요구사항을 직접 정리한 표현으로만 기록합니다.
 
-시험장에서 쓸 명령은 [cheatsheet.md](cheatsheet.md) 에 모았습니다.
+시험장에서 쓸 명령은 [cheatsheet.md](cheatsheet.md) 에, 시험 전 10일 동안 하루 1시간씩 푸는 계획은 [study_plan/](study_plan/README.md) 에 모았습니다.
 
 ## 출제 범위와 트렌드
 
@@ -84,6 +84,7 @@
 .
 ├── README.md                   # 이 파일 — 출제 트렌드, 진행 현황, 도메인별 자신감, 반복 오답
 ├── cheatsheet.md               # 시험장에서 쓸 kubectl 단축과 빈출 절차
+├── study_plan/                 # 시험 전 10일 학습 계획 (하루 1시간)
 ├── scripts/
 │   └── update_progress.py      # question.md 의 풀이 기록으로 README 진행 표를 채운다
 ├── .gitignore
